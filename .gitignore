@@ -1,0 +1,11 @@
+# Exécutable compilé (chacun le recompile sur sa machine)
+splic1/splic1
+
+# Fichiers produits par les calculs
+*.dat
+entrees_*.txt
+etude_*.csv
+etude_*.png
+apercu_zone.png
+resume_zone.txt
+.DS_Store
